@@ -1,0 +1,3 @@
+[submodule "notepad-autocli"]
+	path = notepad-autocli
+	url = https://github.com/GustavoNaldoni1/notepad-autocli.git
